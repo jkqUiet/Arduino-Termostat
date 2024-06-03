@@ -1,0 +1,38 @@
+Menu 0 : 
+Vonku :   - TdogHouseThermometer - namerana Teplota
+Cerpadlo :   - termostat
+
+ohranicenia ziadne
+
+Menu1 : 
+Nast.cerpad.zop  - nastavenaTeplota1
+
+maximum 60
+minimum 47
+
+Menu2 : 
+Nast.cerpad.vyp  - nastavenaTeplota2
+
+maximum 46
+minimum 40
+
+Menu3 :
+
+PodsvietenieLCD  - podsvietenieAtribut
+
+maximum = 100
+minimum = 0
+
+Menu4 : 
+
+Kotol  - TeplotaInside
+Bojler  - TeplotaOutside
+
+ohranicenia ziadne
+
+Menu5 : 
+
+Pivnica  - DHT11.Temperature
+Vlhkost  - DHT11.humidity
+
+ohranicenia ziadne
